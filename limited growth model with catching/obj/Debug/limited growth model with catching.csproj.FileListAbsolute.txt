@@ -1,0 +1,9 @@
+c:\users\бочков\documents\visual studio 2013\Projects\limited growth model with catching\limited growth model with catching\bin\Debug\limited growth model with catching.exe.config
+c:\users\бочков\documents\visual studio 2013\Projects\limited growth model with catching\limited growth model with catching\bin\Debug\limited growth model with catching.exe
+c:\users\бочков\documents\visual studio 2013\Projects\limited growth model with catching\limited growth model with catching\bin\Debug\limited growth model with catching.pdb
+c:\users\бочков\documents\visual studio 2013\Projects\limited growth model with catching\limited growth model with catching\obj\Debug\limited growth model with catching.csprojResolveAssemblyReference.cache
+c:\users\бочков\documents\visual studio 2013\Projects\limited growth model with catching\limited growth model with catching\obj\Debug\limited_growth_model_with_catching.Form1.resources
+c:\users\бочков\documents\visual studio 2013\Projects\limited growth model with catching\limited growth model with catching\obj\Debug\limited_growth_model_with_catching.Properties.Resources.resources
+c:\users\бочков\documents\visual studio 2013\Projects\limited growth model with catching\limited growth model with catching\obj\Debug\limited growth model with catching.csproj.GenerateResource.Cache
+c:\users\бочков\documents\visual studio 2013\Projects\limited growth model with catching\limited growth model with catching\obj\Debug\limited growth model with catching.exe
+c:\users\бочков\documents\visual studio 2013\Projects\limited growth model with catching\limited growth model with catching\obj\Debug\limited growth model with catching.pdb
